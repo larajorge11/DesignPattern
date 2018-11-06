@@ -1,4 +1,4 @@
-package dependencyinjection;
+package dependencyinjection.example1;
 
 // High Level Module
 public class Developer {

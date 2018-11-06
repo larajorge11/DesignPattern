@@ -1,4 +1,4 @@
-package dependencyinjection;
+package dependencyinjection.example1;
 
 //Low level module
 public class FrontendDeveloper {

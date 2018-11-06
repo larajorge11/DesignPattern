@@ -1,4 +1,4 @@
-package dependencyinjection;
+package dependencyinjection.example1;
 
 public class BackendDeveloperNew implements IDeveloper {
 
