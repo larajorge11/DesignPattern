@@ -1,4 +1,4 @@
-package structural.adapter;
+package structural.adapter.example01;
 
 public class SquarePeg {
 
